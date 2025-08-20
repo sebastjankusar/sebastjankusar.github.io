@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <!-- Homepage -->
   <url>
-    <loc>https://instrukcijeplus.eu/</loc>
+    <loc>https://www.instrukcijeplus.eu/</loc>
     <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
-    
     <!-- Image on the page -->
     <image:image>
-      <image:loc>https://instrukcijeplus.eu/zacetna_slika.png</image:loc>
+      <image:loc>https://www.instrukcijeplus.eu/zacetna_slika.png</image:loc>
       <image:title>Home page image</image:title>
     </image:image>
-    
   </url>
-
 </urlset>
